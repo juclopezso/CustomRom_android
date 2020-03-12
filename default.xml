@@ -598,6 +598,9 @@
   <project path="system/tpm" name="platform/system/tpm" remote="aosp" />
   <project path="system/update_engine" name="LineageOS/android_system_update_engine" groups="pdk" />
   <project path="system/vold" name="LineageOS/android_system_vold" groups="pdk" />
+
+  <project path="vendor/customRom" name="juclopezso/android_vendor_customRom" />
+
   <project path="test/framework" name="platform/test/framework" groups="vts,pdk" remote="aosp" />
   <project path="test/suite_harness" name="platform/test/suite_harness" groups="cts,pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="test/vti/dashboard" name="platform/test/vti/dashboard" groups="vts,pdk" remote="aosp" />
